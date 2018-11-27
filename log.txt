@@ -1,6 +1,0 @@
-2018-11-22 12:42:46,713 - MachineLearningForTextcategory.logger - INFO - ['femal']
-2018-11-22 12:42:46,713 - MachineLearningForTextcategory.logger - INFO - label and proba:['femal' 'male'] [0.63367035 0.36632965]
-2018-11-22 12:42:46,713 - MachineLearningForTextcategory.logger - INFO - predict detail:qq [('femal', 0.6336703453245156), ('male', 0.36632965467548423)]
-2018-11-22 12:43:12,293 - MachineLearningForTextcategory.logger - INFO - ['femal']
-2018-11-22 12:43:12,293 - MachineLearningForTextcategory.logger - INFO - label and proba:['femal' 'male'] [0.63367035 0.36632965]
-2018-11-22 12:43:12,293 - MachineLearningForTextcategory.logger - INFO - predict detail:icho [('femal', 0.6336703453245156), ('male', 0.36632965467548423)]
